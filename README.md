@@ -108,5 +108,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 Name : Rawikant Jaikid
-C2R1 , Computer
+Class : C2R1
+Major : Computer
 Interest/Hobbies : Drawing , Reading
